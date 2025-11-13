@@ -2,7 +2,7 @@
 ### *Ontario-Inspected Private High School (Mident 669693)*  
 **Education for all ages — Brampton, Ontario, Canada**  
 🌐 https://canstemeducation.com  
-📧 support@canstemeducation.com  
+📧 frontdesk@canstemeducation.com  
 
 ---
 
@@ -72,8 +72,8 @@ This account acts as the **central code hub** for all CanSTEM technical projects
 
 ## 👥 Contributors
 **Primary Developer & Maintainer**  
-- **Mahak Patel** — Web & IT Admin, CanSTEM Education  
-  - GitHub: https://github.com/Mahakxx  
+- **Mahak Patel** — Web & IT Admin, CanSTEM Education Private School
+  - GitHub: https://github.com/oyemahak 
 
 (Additional contributors will be added as internal projects expand.)
 
@@ -93,9 +93,7 @@ Feel free to reach out if you'd like to contribute or integrate your tools with 
 
 ## 🏫 Contact  
 📍 **Unit 10, Plaza 1, 350 Rutherford Rd South, Brampton, ON L6W 4N6**  
-📧 support@canstemeducation.com  
-🌐 https://canstemeducation.com  
+📧 inquiry@canstemeducation.com  
+🌐 https://canstemeducation.com/  
 
 ---
-
-# 📚 *Empowering learners through modern education and technology.*
