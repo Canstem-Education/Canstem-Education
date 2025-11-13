@@ -1,5 +1,5 @@
 # 🎓 CanSTEM Education Private School
-### *Ontario-Inspected Private High School (Mident 669693)*  
+### *Ministry of Education Ontario Inspected Private School (BSID# 665446) Our credits are accepted by all the universities and colleges.*  
 **Education for all ages — Brampton, Ontario, Canada**  
 🌐 https://canstemeducation.com  
 📧 frontdesk@canstemeducation.com  
